@@ -1,7 +1,7 @@
 # 📱 POS Móvil - Flutter
 
 <p align="center">
-  <img width="800" src="https://via.placeholder.com/1200x300.png?text=POS+Movil+Flutter" alt="POS Flutter Banner"/>
+ 
 </p>
 
 <p align="center">
