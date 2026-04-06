@@ -48,8 +48,8 @@ lib/
 └── main.dart      # Punto de entrada
 💻 Instalación
 1. Clonar el repositorio
-git clone https://github.com/isairey/avance_topicos.git
-cd avance_topicos
+git clone https://github.com/isairey/Punto_Venta_C.git
+cd Punto_Venta_C
 2. Instalar dependencias
 flutter pub get
 3. Ejecutar la app
