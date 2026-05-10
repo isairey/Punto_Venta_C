@@ -212,7 +212,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del Proyecto
 
 ```bash
-lib/
+Punto_Venta_C/
 │
 ├── models/          # Modelos de datos
 ├── screens/         # Pantallas principales
